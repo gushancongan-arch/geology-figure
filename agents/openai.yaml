@@ -1,0 +1,7 @@
+interface:
+  display_name: "Geology Figure"
+  short_description: "Origin-style figures for geology and landslide research"
+  brand_color: "#3767A8"
+  default_prompt: "Use $geology-figure to create a publication-ready Origin-style figure from my geology data."
+policy:
+  allow_implicit_invocation: true
